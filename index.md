@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0;padding:0; background:linear-gradient(to bottom, #336699 15%, #00ffff 100%); height:100%;">
 
-You can use the [editor on GitHub](https://github.com/corvoanalfabeto/corvo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<div style="background-color: #336699;width: 100%;height:1%">
+<h1 style="color: white; font-family:Trebuchet MS; text-align: center; padding-top: 3%; padding-bottom: 3%;margin:0;">
+Desplastificar é salvar
+ <img src="images/logo1.png" alt="logo" height="82px" width="187px" style="margin-top:0">
+</h1>
+</div>
+<p style="text-align:center;padding-left:30%;padding-right:30%;font-family:Trebuchet MS;margin-top:20px; color:white;">
+  O projecto da campanha "Desplastificar é salvar" consiste numa série de anúncios para a web, cujo objectivo final é consciêncializar e provocar acção por parte do visualizador no âmbito de reduzir o consumo de plástico no dia a dia.
+</p>
+<p style="text-align:center;padding-left:30%;padding-right:30%;font-family:Trebuchet MS;color:white;">
+  Para atingir este objectivo foram criados 4 banners animados para serem utilizados em diferentes plataformas, onde pretende-se que o visualizador tenha uma ideia mais visual da realidade a que nos dirigimos.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 style="text-align:center;margin-top:50px;font-family:Trebuchet MS;"> Banner 1 "Leaderboard"</h2>
+<div style="text-align:center;">
+<img src="images/final2.gif" alt="final gif 2" height="74px" width="600px" >
+</div>
 
-### Markdown
+<h2 style="text-align:center;margin-top:50px;font-family:Trebuchet MS;"> Banner 2 "mobile"</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div style="text-align:center;">
+<img src="images/final3.gif" alt="final gif 3" height="50px" width="300px" >
+</div>
 
-```markdown
-Syntax highlighted code block
+<h2 style="text-align:center;margin-top:50px;font-family:Trebuchet MS;"> Banner 3 "Skyscraper"</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<div style="text-align:center;"><img src="images/final1.gif" alt="final gif" height="600px" width="160px" >
+</div>
 
-- Bulleted
-- List
+<h2 style="text-align:center;margin-top:50px;font-family:Trebuchet MS;"> Banner 4 "1x1 (1080x1080px) "mobile"</h2>
 
-1. Numbered
-2. List
+<div style="text-align:center;">
+<img src="images/final4.gif" alt="final gif 4" height="540px" width="540px">
+</div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corvoanalfabeto/corvo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
