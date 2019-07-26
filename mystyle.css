@@ -27,15 +27,21 @@ h1{
 }
 
 
-	.tg  {border-collapse:collapse;border-spacing:0;border-color:#93a1a1;margin:auto;margin-bottom:50px;}
-	.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#002b36;background-color:#fdf6e3;}
-	.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#fdf6e3;background-color:#657b83;}
-	.tg .tg-zef7{font-family:"Trebuchet MS", Helvetica, sans-serif !important;;text-align:left;vertical-align:top}
-	.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#93a1a1;margin:auto;margin-bottom:50px;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#002b36;background-color:#fdf6e3;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#fdf6e3;background-color:#657b83;}
+.tg .tg-zef7{font-family:"Trebuchet MS", Helvetica, sans-serif !important;;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 	
 wrapper { margin: auto;
 	}
 	
-.hmenu {
-	
+.hmenu {}
+
+.statblock {
+	width:60%;
+	margin:auto;
+	padding:20px;
+	background-color:#93a1a1;
+	margin-bottom:50px;
 }
