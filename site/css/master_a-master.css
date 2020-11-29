@@ -1,0 +1,55 @@
+#u1341
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #1E1919;
+}
+
+#u1341_align_to_page
+{
+	position: relative;
+}
+
+#u144-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u144-4:hover
+{
+	border-color: #FF0000;
+}
+
+#u146-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u148-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u144-4:hover p,#u146-4:hover p,#u148-4:hover p
+{
+	text-decoration: underline;
+}
+

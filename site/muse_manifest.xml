@@ -1,0 +1,125 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1429325127836">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="234345910" ref="projecto-2:2:projecto-3:3:projecto-1:sobre:1:contactos:index:projectos"/>
+    <file name="projecto-2.css" crc="3782578815" ref="projecto-2"/>
+    <file name="2.css" crc="3950730094" ref="2"/>
+    <file name="projecto-3.css" crc="4274778187" ref="projecto-3"/>
+    <file name="3.css" crc="3856682583" ref="3"/>
+    <file name="projecto-1.css" crc="25362494" ref="projecto-1"/>
+    <file name="sobre.css" crc="4052716499" ref="sobre"/>
+    <file name="1.css" crc="3942058491" ref="1"/>
+    <file name="contactos.css" crc="4193094925" ref="contactos"/>
+    <file name="index.css" crc="4098950521" ref="index"/>
+    <file name="projectos.css" crc="3938450676" ref="projectos"/>
+  </folder>
+  <folder name="assets">
+    <file name="dsc00038.jpg" crc="9073451" mt="1404949022000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:sobre:projectos:contactos:projecto-3:projecto-2:projecto-1:1:2:3"/>
+    <file name="museutils.js" crc="4136605575" ref="index:sobre:projectos:contactos:projecto-3:projecto-2:projecto-1:1:2:3"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:sobre:projectos:contactos:projecto-3:projecto-2:projecto-1:1:2:3"/>
+    <file name="webpro.js" crc="420478120" ref="contactos:projecto-3:projecto-1:1:3"/>
+    <file name="form_check.php" crc="313295658" ref="contactos"/>
+    <file name="form_throttle.php" crc="254134657" ref="contactos"/>
+    <file name="form_process.php" crc="304694956" ref="contactos"/>
+    <file name="form-u1626.php" crc="3784113887" ref="contactos"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="projecto-3:projecto-1:1:3"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="projecto-3:projecto-1:1:3"/>
+    <file name="touchswipe.js" crc="60020316" ref="projecto-3:projecto-1:1:3"/>
+  </folder>
+  <folder name="images">
+    <file name="ep.png" crc="149213559" ref="index"/>
+    <file name="pasted image 960x960.jpg" crc="317233933" ref="sobre"/>
+    <file name="boi.jpg" crc="383858436" ref="projectos"/>
+    <file name="pasted image 285x284.jpg" crc="3872080241" ref="projectos"/>
+    <file name="pasted image 388x371.jpg" crc="3936178376" ref="projectos"/>
+    <file name="pasted image 372x371.jpg" crc="3917400238" ref="projectos"/>
+    <file name="moinho.png" crc="181312675" ref="projectos"/>
+    <file name="pasted image 460x471.jpg" crc="418181388" ref="projectos"/>
+    <file name="u1632-17.png" crc="211172454" ref="contactos"/>
+    <file name="u1632-17-r.png" crc="315321158" ref="contactos"/>
+    <file name="u1632-17-m.png" crc="109362146" ref="contactos"/>
+    <file name="u1632-17-fs.png" crc="122346519" ref="contactos"/>
+    <file name="book1.jpg" crc="4240376905" ref="projecto-3"/>
+    <file name="blank.gif" crc="4208392903" ref="projecto-3:projecto-1:1:3"/>
+    <file name="book2.jpg" crc="3955042306" ref="projecto-3"/>
+    <file name="book3.jpg" crc="261063187" ref="projecto-3"/>
+    <file name="book1-crop-u1414.jpg" crc="45192591" ref="projecto-3"/>
+    <file name="book2-crop-u1460.jpg" crc="4227845990" ref="projecto-3"/>
+    <file name="book3-crop-u1469.jpg" crc="510617549" ref="projecto-3"/>
+    <file name="loading.gif" crc="3815509949" ref="projecto-3:projecto-1:1:3"/>
+    <file name="selos.gif" crc="3978449531" ref="projecto-2:2"/>
+    <file name="dsc00038424x318.jpg" crc="4121355329" ref="projecto-1"/>
+    <file name="dsc00059424x318.jpg" crc="474360577" ref="projecto-1"/>
+    <file name="dsc00077424x318.jpg" crc="130007781" ref="projecto-1"/>
+    <file name="dsc00063424x318.jpg" crc="3770174945" ref="projecto-1"/>
+    <file name="dsc00066424x318.jpg" crc="4186880852" ref="projecto-1"/>
+    <file name="dsc00081424x318.jpg" crc="114661959" ref="projecto-1"/>
+    <file name="dsc00087424x318.jpg" crc="4136792334" ref="projecto-1"/>
+    <file name="dsc00088424x318.jpg" crc="42194658" ref="projecto-1"/>
+    <file name="dsc00089424x318.jpg" crc="252144820" ref="projecto-1"/>
+    <file name="dsc00106424x318.jpg" crc="3800379324" ref="projecto-1"/>
+    <file name="dsc00108424x318.jpg" crc="87868825" ref="projecto-1"/>
+    <file name="dsc00110424x318.jpg" crc="4108841205" ref="projecto-1"/>
+    <file name="dsc00114424x318.jpg" crc="4128390263" ref="projecto-1"/>
+    <file name="dsc00123424x318.jpg" crc="4273347578" ref="projecto-1"/>
+    <file name="dsc00129424x318.jpg" crc="4244792621" ref="projecto-1"/>
+    <file name="dsc00648424x318.jpg" crc="384542059" ref="projecto-1"/>
+    <file name="dsc00695424x318.jpg" crc="272101175" ref="projecto-1"/>
+    <file name="dsc00844424x318.jpg" crc="4001034517" ref="projecto-1"/>
+    <file name="dsc00038102x76.jpg" crc="4026416575" ref="projecto-1"/>
+    <file name="dsc00059102x76.jpg" crc="95242246" ref="projecto-1"/>
+    <file name="dsc00077102x76.jpg" crc="4097777815" ref="projecto-1"/>
+    <file name="dsc00063102x76.jpg" crc="30803684" ref="projecto-1"/>
+    <file name="dsc00066102x76.jpg" crc="4195059643" ref="projecto-1"/>
+    <file name="dsc00081102x76.jpg" crc="258535589" ref="projecto-1"/>
+    <file name="dsc00087102x76.jpg" crc="204724048" ref="projecto-1"/>
+    <file name="dsc00088102x76.jpg" crc="4003632925" ref="projecto-1"/>
+    <file name="dsc00089102x76.jpg" crc="363414434" ref="projecto-1"/>
+    <file name="dsc00106102x76.jpg" crc="155021031" ref="projecto-1"/>
+    <file name="dsc00108102x76.jpg" crc="3794903672" ref="projecto-1"/>
+    <file name="dsc00110102x76.jpg" crc="357279969" ref="projecto-1"/>
+    <file name="dsc00114102x76.jpg" crc="435599264" ref="projecto-1"/>
+    <file name="dsc00123102x76.jpg" crc="264220890" ref="projecto-1"/>
+    <file name="dsc00129102x76.jpg" crc="397474246" ref="projecto-1"/>
+    <file name="dsc00648102x76.jpg" crc="521832293" ref="projecto-1"/>
+    <file name="dsc00695102x76.jpg" crc="3895621462" ref="projecto-1"/>
+    <file name="dsc00844102x76.jpg" crc="464850280" ref="projecto-1"/>
+    <file name="arrow.png" crc="3808447523" ref="1:3"/>
+    <file name="dsc00038.jpg" crc="305334221" ref="1"/>
+    <file name="dsc00059.jpg" crc="3979914868" ref="1"/>
+    <file name="dsc00077.jpg" crc="513533173" ref="1"/>
+    <file name="dsc00063.jpg" crc="91383690" ref="1"/>
+    <file name="dsc00066.jpg" crc="413733273" ref="1"/>
+    <file name="dsc00081.jpg" crc="3897522181" ref="1"/>
+    <file name="dsc00087.jpg" crc="3828522723" ref="1"/>
+    <file name="dsc00088.jpg" crc="4214979687" ref="1"/>
+    <file name="dsc00089.jpg" crc="3938766433" ref="1"/>
+    <file name="dsc00106.jpg" crc="4215407512" ref="1"/>
+    <file name="dsc00108.jpg" crc="103172093" ref="1"/>
+    <file name="dsc00110.jpg" crc="4097634727" ref="1"/>
+    <file name="dsc00114.jpg" crc="324033598" ref="1"/>
+    <file name="dsc00123.jpg" crc="21409675" ref="1"/>
+    <file name="dsc00129.jpg" crc="336270821" ref="1"/>
+    <file name="dsc00648.jpg" crc="351623501" ref="1"/>
+    <file name="dsc00695.jpg" crc="3803178479" ref="1"/>
+    <file name="dsc00844.jpg" crc="83576268" ref="1"/>
+    <file name="untitled-1.jpg" crc="108304325" ref="1:2:3"/>
+    <file name="selos_big.png" crc="4260217277" ref="2"/>
+    <file name="book33.jpg" crc="180380696" ref="3"/>
+    <file name="book11.png" crc="4162990602" ref="3"/>
+    <file name="book22.jpg" crc="4059774303" ref="3"/>
+  </folder>
+  <file name="index.html" crc="4255835025" mt="1429306331305" redirect="true"/>
+  <file name="sobre.html" crc="507855987" mt="1429320053023" redirect="true"/>
+  <file name="projectos.html" crc="259140262" mt="1429325120911" redirect="true"/>
+  <file name="contactos.html" crc="297782490" mt="1429325017513" redirect="true"/>
+  <file name="projecto-3.html" crc="4017959307" mt="1429319763685" redirect="true"/>
+  <file name="projecto-2.html" crc="70811296" mt="1429306331309" redirect="true"/>
+  <file name="projecto-1.html" crc="500800740" mt="1429312286772" redirect="true"/>
+  <file name="1.html" crc="4020992598" mt="1429306331311" redirect="true"/>
+  <file name="2.html" crc="4179356700" mt="1429306331312" redirect="true"/>
+  <file name="3.html" crc="3870489564" mt="1429318153117" redirect="true"/>
+</manifest>

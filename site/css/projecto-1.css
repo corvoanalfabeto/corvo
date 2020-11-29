@@ -1,0 +1,801 @@
+.version.projecto_1 /* version checker */
+{
+	color: #000001;
+	background-color: #83003E;
+}
+
+.html
+{
+	background-color: #FFB442;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 760px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 63px;
+}
+
+#pu1341
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1341
+{
+	z-index: 2;
+	padding-bottom: 51px;
+}
+
+#u1341_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	left: -100px;
+}
+
+#u144-4
+{
+	z-index: 3;
+	width: 78px;
+	min-height: 30px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 181px;
+}
+
+#u146-4
+{
+	z-index: 7;
+	width: 78px;
+	min-height: 30px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 573px;
+}
+
+#u148-4
+{
+	z-index: 11;
+	width: 78px;
+	min-height: 30px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 965px;
+}
+
+#u144-4:hover,#u146-4:hover,#u148-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	margin: 68px -10000px 0px 0px;
+}
+
+#u1341-bw
+{
+	z-index: 2;
+	height: 98px;
+}
+
+#u234-3
+{
+	z-index: 15;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 231px;
+}
+
+#u277-3
+{
+	z-index: 99;
+	width: 5px;
+	background-color: transparent;
+	margin-left: 909px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#slideshowu236
+{
+	z-index: 24;
+	width: 0.01px;
+	height: 556px;
+	left: -8px;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u237
+{
+	position: absolute;
+	width: 462px;
+	height: 323px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 550px;
+}
+
+#u237popup
+{
+	z-index: 25;
+}
+
+#u238
+{
+	z-index: 26;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u394
+{
+	z-index: 28;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u403
+{
+	z-index: 30;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u412
+{
+	z-index: 32;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u421
+{
+	z-index: 34;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u430
+{
+	z-index: 36;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u439
+{
+	z-index: 38;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u448
+{
+	z-index: 40;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u457
+{
+	z-index: 42;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u466
+{
+	z-index: 44;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u475
+{
+	z-index: 46;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u484
+{
+	z-index: 48;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u493
+{
+	z-index: 50;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u502
+{
+	z-index: 52;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u511
+{
+	z-index: 54;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u520
+{
+	z-index: 56;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u529
+{
+	z-index: 58;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u538
+{
+	z-index: 60;
+	width: 462px;
+	height: 323px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u238_img,#u394_img,#u403_img,#u412_img,#u421_img,#u430_img,#u439_img,#u448_img,#u457_img,#u466_img,#u475_img,#u484_img,#u493_img,#u502_img,#u511_img,#u520_img,#u529_img,#u538_img
+{
+	padding: 3px 19px 2px;
+}
+
+#u253
+{
+	position: absolute;
+	width: 1018px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: 386px;
+}
+
+#u253popup
+{
+	z-index: 62;
+}
+
+#u254
+{
+	z-index: 63;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 19px;
+}
+
+#u254:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u397
+{
+	z-index: 65;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 129px;
+}
+
+#u397:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u406
+{
+	z-index: 67;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 239px;
+}
+
+#u406:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u415
+{
+	z-index: 69;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 349px;
+}
+
+#u415:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u424
+{
+	z-index: 71;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 459px;
+}
+
+#u424:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u433
+{
+	z-index: 73;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 569px;
+}
+
+#u433:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u442
+{
+	z-index: 75;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 679px;
+}
+
+#u442:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u451
+{
+	z-index: 77;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 789px;
+}
+
+#u451:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u460
+{
+	z-index: 79;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 899px;
+}
+
+#u460:hover
+{
+	margin: 4px -10000px 0px 0px;
+}
+
+#u254.SSSlideLinkSelected,#u397.SSSlideLinkSelected,#u406.SSSlideLinkSelected,#u415.SSSlideLinkSelected,#u424.SSSlideLinkSelected,#u433.SSSlideLinkSelected,#u442.SSSlideLinkSelected,#u451.SSSlideLinkSelected,#u460.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u469
+{
+	z-index: 81;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 19px;
+}
+
+#u469:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u478
+{
+	z-index: 83;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 129px;
+}
+
+#u478:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u487
+{
+	z-index: 85;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 239px;
+}
+
+#u487:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u496
+{
+	z-index: 87;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 349px;
+}
+
+#u496:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u505
+{
+	z-index: 89;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 459px;
+}
+
+#u505:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u514
+{
+	z-index: 91;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 569px;
+}
+
+#u514:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u523
+{
+	z-index: 93;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 679px;
+}
+
+#u523:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u532
+{
+	z-index: 95;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 789px;
+}
+
+#u532:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u541
+{
+	z-index: 97;
+	width: 100px;
+	height: 76px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 899px;
+}
+
+#u541:hover
+{
+	margin: 90px -10000px 0px 0px;
+}
+
+#u469.SSSlideLinkSelected,#u478.SSSlideLinkSelected,#u487.SSSlideLinkSelected,#u496.SSSlideLinkSelected,#u505.SSSlideLinkSelected,#u514.SSSlideLinkSelected,#u523.SSSlideLinkSelected,#u532.SSSlideLinkSelected,#u541.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 90px -10000px 0px 0px;
+}
+
+#u254_clip,#u397_clip,#u406_clip,#u415_clip,#u424_clip,#u433_clip,#u442_clip,#u451_clip,#u460_clip,#u469_clip,#u478_clip,#u487_clip,#u496_clip,#u505_clip,#u514_clip,#u523_clip,#u532_clip,#u541_clip
+{
+	overflow: hidden;
+	width: 100px;
+	height: 76px;
+}
+
+#u254_img,#u397_img,#u406_img,#u415_img,#u424_img,#u433_img,#u442_img,#u451_img,#u460_img,#u469_img,#u478_img,#u487_img,#u496_img,#u505_img,#u514_img,#u523_img,#u532_img,#u541_img
+{
+	margin-left: -1px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#ppu1157
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: -556px;
+}
+
+#pu1157
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+}
+
+#u1157
+{
+	z-index: 103;
+	width: 311px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u233-4
+{
+	z-index: 104;
+	width: 311px;
+	min-height: 110px;
+	background-color: transparent;
+	line-height: 38px;
+	font-size: 32px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u235-6
+{
+	z-index: 18;
+	width: 481px;
+	min-height: 114px;
+	background-color: transparent;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u1140
+{
+	z-index: 102;
+	width: 426px;
+	height: 324px;
+	position: relative;
+	margin-right: -10000px;
+	left: 541px;
+}
+
+.ie #u1140
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+	padding-top: 61px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
