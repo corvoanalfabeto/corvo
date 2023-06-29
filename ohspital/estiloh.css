@@ -2,7 +2,7 @@ html {
 	height:100%
 }
 body {
-background-color: black;
+background-color: DarkTurquoise;
 font-color: white;
 padding:0px;
 margin:0;
@@ -44,12 +44,16 @@ h1 {
 	color:#ffffff;
 	cursor:url(cursor.png), auto;
 	text-decoration:none;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 	
 }
 
 @media only screen and (max-width: 900px) {
   .divisor {
-    background-color: lightblue;
 	clear:left;
 	height:10%;
 	width:100%;
